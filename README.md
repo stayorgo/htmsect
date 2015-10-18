@@ -1,7 +1,7 @@
 # htmsect
 
-htmsect is an html parser, with tools and ultilities to analyze html for golang, delphi, fpc, 
-and in the future C language.  
+htmsect is an html parser, with tools and ultilities to analyze html.
+This html parser is available for golang, delphi, fpc, and in the future C language.  
 
 It is based on fasthtmlparser, which is a delphi html parser that is fast, simple, and elegant.
 
